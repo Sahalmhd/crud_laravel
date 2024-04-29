@@ -94,7 +94,7 @@
                                                 <span class="input-group-text" id="inputGroupPrepend">@</span>
                                                 <input type="text" name="email" class="form-control"
                                                     id="yourUsername" required>
-                                                <div class="invalid-feedback">Please enter your username.</div>
+                                                <div class="invalid-feedback">Enter your username.</div>
                                             </div>
                                         </div>
 
@@ -102,7 +102,7 @@
                                             <label for="yourPassword" class="form-label">Password</label>
                                             <input type="password" name="password" class="form-control"
                                                 id="yourPassword" required>
-                                            <div class="invalid-feedback">Please enter your password!</div>
+                                            <div class="invalid-feedback">Enter your password!</div>
                                         </div>
 
 
